@@ -38,5 +38,8 @@ The dataset is created using Pandas and contains the following fields:
 | Column | Description |
 |------|-------------|
 | Year | Year of sales |
-| Sales | Sales value for the year |
+| Sales | Sales value for the year | 
+ ##  output
+
+ <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/d6b61905-2364-4c48-bcf2-7c680f848301" />
 
